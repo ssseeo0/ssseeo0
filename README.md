@@ -3,7 +3,7 @@
 <!--사진 추가하기 -->
 </div>
 
-![ssseeo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssseeo0&show_icons=true&theme=cobalt)
+![ssseeo0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssseeo0&show_icons=true&theme=tokyonight)
 
 
 <!--내용 부분-->
